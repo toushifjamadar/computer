@@ -1,4 +1,4 @@
 # computer
 <br>
-toushif
+toushif(jamadar)
 santu
